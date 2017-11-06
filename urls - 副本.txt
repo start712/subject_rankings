@@ -1,0 +1,22 @@
+Mathematics|https://www.usnews.com//education/best-global-universities/mathematics
+Microbiology|https://www.usnews.com//education/best-global-universities/microbiology
+Molecular Biology and Genetics|https://www.usnews.com//education/best-global-universities/molecular-biology-genetics
+Pharmacology and Toxicology|https://www.usnews.com//education/best-global-universities/pharmacology-toxicology
+Physics|https://www.usnews.com//education/best-global-universities/physics
+Plant and Animal Science|https://www.usnews.com//education/best-global-universities/plant-animal-science
+Space Science|https://www.usnews.com//education/best-global-universities/space-science
+Agricultural Sciences|https://www.usnews.com//education/best-global-universities/agricultural-sciences
+Psychiatry or Psychology|https://www.usnews.com//education/best-global-universities/psychiatry-psychology
+Social Sciences and Public Health|https://www.usnews.com//education/best-global-universities/social-sciences-public-health
+Neuroscience and Behavior|https://www.usnews.com//education/best-global-universities/neuroscience-behavior
+Arts and Humanities|https://www.usnews.com//education/best-global-universities/arts-and-humanities
+Biology and Biochemistry|https://www.usnews.com//education/best-global-universities/biology-biochemistry
+Chemistry|https://www.usnews.com//education/best-global-universities/chemistry
+Clinical Medicine|https://www.usnews.com//education/best-global-universities/clinical-medicine
+Computer Science|https://www.usnews.com//education/best-global-universities/computer-science
+Economics and Business|https://www.usnews.com//education/best-global-universities/economics-business
+Engineering|https://www.usnews.com//education/best-global-universities/engineering
+Environment or Ecology|https://www.usnews.com//education/best-global-universities/environment-ecology
+Geosciences|https://www.usnews.com//education/best-global-universities/geosciences
+Immunology|https://www.usnews.com//education/best-global-universities/immunology
+Materials Science|https://www.usnews.com//education/best-global-universities/materials-science
